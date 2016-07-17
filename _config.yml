@@ -10,8 +10,8 @@ locale                   : "en"
 title                    : "Things Unseen"
 title_separator          : "-"
 name                     : "Amrit Patel"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Documentary/Lifestyle Photography"
+url                      : "https://amritpatel.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -63,10 +63,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Amrit Patel"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Let me capture your life."
+  location         : "Silver Spring, MD"
   email            :
   uri              :
   bitbucket        :
@@ -85,7 +85,7 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
+  tumblr           : http://amritpatel.tumblr.com/
   twitter          :
   vine             :
   weibo            :
