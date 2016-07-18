@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Portfolio"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+    url: https://amritpatel.github.io/Things-Unseen/
 
   - title: "Testimonials"
     url: /
     
   - title: "About"
-    url: /
+    url: /about/
