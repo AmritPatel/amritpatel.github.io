@@ -1,11 +1,9 @@
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      permalink: /about/
-      author_profile: true
+---
+title: "About Me"
+layout: single
+excerpt: "An excerpt."
+sitemap: false
+permalink: /about.html
+---
 
 More to come ... 
