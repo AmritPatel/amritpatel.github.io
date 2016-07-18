@@ -4,4 +4,4 @@ excerpt: "An excerpt."
 permalink: /about/
 ---
 
-More to come ... :+1:
+More to come soon ... :blush:
