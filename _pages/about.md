@@ -4,13 +4,9 @@ excerpt: "An excerpt."
 permalink: /about/
 ---
 
-## Who I am
+*Who I am*: A husband and dad of a fun-loving (he gets that from me :wink:) almost-3-year old.
 
-A husband and dad of a fun-loving (he gets that from me :wink:) almost-3-year old boy.
-
-## What I believe
-
-The moment is what matters. To see first, and only then to react. And to do so quickly. Doing this with the greatest efficiency requires a simplification of process. I like to use simple and portable devices to achieve the desired effect.
+*What I believe*: The moment is what matters. To see first, and only then to react. And to do so quickly. Doing this with the greatest efficiency requires a simplification of process. I like to use simple and portable devices to achieve the desired effect.
 
 Ultimately, this allows one more time to see and requires less time to react. This process also encourages one to be deliberate and thoughtful both in the making of images, and later, in the selection of images for presentation. It has brought me much joy and delight. Joy and delight for the final image made, but more importantly, for the opportunities to connect with others.
 
