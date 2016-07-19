@@ -13,12 +13,12 @@ Ultimately, this allows one more time to see and requires less time to react. Th
 I aim to capture quiet fleeting moments. Family, friends, strangers. At home or in the street.
 
 *What I do*:
-  - Film
-    + Both b+w and color
-    + 35mm and medium format
-    + I develop b+w film and can make gelatin silver prints upon request
-    + I can also scan negatives
-  - Digital
+- Film
+  + Both b+w and color
+  + 35mm and medium format
+  + I develop b+w film and can make gelatin silver prints upon request
+  + I can also scan negatives
+- Digital
 
 > To me, photography is an art of observation. It’s about finding something interesting in an ordinary place. I’ve found it has little to do with the things you see and everything to do with the way you see them. 
 
