@@ -6,22 +6,58 @@ tags:
   - newborn
   - digital
 gallery:
-  - url: 2016-07-17-baby-august/R0007748.jpg
-    image_path: 2016-07-17-baby-august/R0007748.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: 2016-07-17-baby-august/R0007755.jpg
-    image_path: 2016-07-17-baby-august/R0007755.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: 2016-07-17-baby-august/R0007767.jpg
-    image_path: 2016-07-17-baby-august/R0007767.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: 2016-07-17-baby-august/R0007779.jpg
-    image_path: 2016-07-17-baby-august/R0007779.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
+  - url: 2016-07-17-baby-august/august-1.jpg
+    image_path: 2016-07-17-baby-august/august-1.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-17-baby-august/august-2.jpg
+    image_path: 2016-07-17-baby-august/august-2.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-17-baby-august/august-3.jpg
+    image_path: 2016-07-17-baby-august/august-3.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-17-baby-august/august-4.jpg
+    image_path: 2016-07-17-baby-august/august-4.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-17-baby-august/august-5.jpg
+    image_path: 2016-07-17-baby-august/august-5.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-17-baby-august/august-6.jpg
+    image_path: 2016-07-17-baby-august/august-6.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-17-baby-august/august-7.jpg
+    image_path: 2016-07-17-baby-august/august-7.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-17-baby-august/august-8.jpg
+    image_path: 2016-07-17-baby-august/august-8.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-17-baby-august/august-9.jpg
+    image_path: 2016-07-17-baby-august/august-9.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-17-baby-august/august-10.jpg
+    image_path: 2016-07-17-baby-august/august-10.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-17-baby-august/august-11.jpg
+    image_path: 2016-07-17-baby-august/august-11.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-17-baby-august/august-12.jpg
+    image_path: 2016-07-17-baby-august/august-12.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-17-baby-august/august-13.jpg
+    image_path: 2016-07-17-baby-august/august-13.jpg
+    alt: ""
+    title: "" 
 ---
 
 My wife and I had the chance to hang out with our friends Lindsay, Geoff, and August on a gorgeous Sunday afternoon. Over a couple of pints of Geoff's amazing homebrew Kolsch I picked his brain trying to figure out how he managed to craft such a delicious and fitting beverage. We were also treated to Geoff's BBQ skills -- his grilled chicken was reminiscent of my old man's famous recipe and it really brought me back to those long summer days of my youth :yum:. 
