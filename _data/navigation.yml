@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Portfolio"
-    url: /tags/
+    url: /portfolio/
 
   - title: "Testimonials"
     url: /testimonials/
