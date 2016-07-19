@@ -3,10 +3,8 @@ title:  "Lindsay + Geoff + August"
 header:
   teaser: 
 categories: 
-  - digital
-tags:
   - newborn
-  - color
+  - digital
 gallery:
   - url: 2016-07-17-baby-august/R0007748.jpg
     image_path: 2016-07-17-baby-august/R0007748.jpg
