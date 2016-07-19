@@ -3,8 +3,8 @@ main:
   - title: "Shoots"
     url: /shoots/
 
-  - title: "Testimonials"
-    url: /testimonials/
+#  - title: "Testimonials"
+#    url: /testimonials/
     
   - title: "About"
     url: /about/
