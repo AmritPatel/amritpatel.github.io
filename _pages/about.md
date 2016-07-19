@@ -12,4 +12,5 @@ I aim to capture quiet fleeting moments. Family, friends, strangers. At home or 
 
 > To me, photography is an art of observation. It’s about finding something interesting in an ordinary place. I’ve found it has little to do with the things you see and everything to do with the way you see them. 
 
-> —Elliott Erwitt
+—<cite>Elliott Erwitt</cite>
+
