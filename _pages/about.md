@@ -13,6 +13,7 @@ Ultimately, this allows one more time to see and requires less time to react. Th
 I aim to capture quiet fleeting moments. Family, friends, strangers. At home or in the street.
 
 *What I do*:
+
   * Film 
       * Both b+w and color
       * 35mm and medium format
