@@ -24,4 +24,10 @@ gallery:
     title: "Image 4 title caption"
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+My wife and I had the chance to hang out with our friends Lindsay, Geoff, and August on a gorgeous Sunday afternoon. Over a couple of pints of Geoff's amazing homebrew Kolsch I picked his brain trying to figure out how he managed to craft such a delicious and fitting beverage. We were also treated to Geoff's BBQ skills -- his grilled chicken was reminiscent of my old man's famous recipe and it really brought me back to those long summer days of my youth :yum:. 
+
+While Geoff fired up the grill, I got the chance to hang out with little 6-week-old August and grabbed some precious moments with mommy. Around the dinner table, Lindsay and Geoff were already pros, cradling August effortlessly while they ate -- they made it look too easy!
+
+Thank you for inviting me into your home and giving me the chance to capture some of August's first months! We had a great time!
+
+{% include gallery caption="A beautiful afternoon with August and family." %}
