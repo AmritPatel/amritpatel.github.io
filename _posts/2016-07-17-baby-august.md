@@ -1,7 +1,7 @@
 ---
 title:  "Lindsay + Geoff + August"
 header:
-  teaser: 
+  image: 2016-07-17-baby-august/august-5.jpg 
 tags: 
   - newborn
   - digital
