@@ -2,7 +2,7 @@
 title:  "Lindsay + Geoff + August"
 header:
   teaser: 
-categories: 
+tags: 
   - newborn
   - digital
 gallery:
