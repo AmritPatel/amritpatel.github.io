@@ -8,20 +8,20 @@ tags:
   - newborn
   - color
 gallery:
-  - url: unsplash-gallery-image-1.jpg
-    image_path: unsplash-gallery-image-1-th.jpg
+  - url: 2016-07-17-baby-august/R0007748.jpg
+    image_path: 2016-07-17-baby-august/R0007748.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: unsplash-gallery-image-2.jpg
-    image_path: unsplash-gallery-image-2-th.jpg
+  - url: 2016-07-17-baby-august/R0007755.jpg
+    image_path: 2016-07-17-baby-august/R0007755.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: unsplash-gallery-image-3.jpg
-    image_path: unsplash-gallery-image-3-th.jpg
+  - url: 2016-07-17-baby-august/R0007767.jpg
+    image_path: 2016-07-17-baby-august/R0007767.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
-  - url: unsplash-gallery-image-4.jpg
-    image_path: unsplash-gallery-image-4-th.jpg
+  - url: 2016-07-17-baby-august/R0007779.jpg
+    image_path: 2016-07-17-baby-august/R0007779.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
 ---
