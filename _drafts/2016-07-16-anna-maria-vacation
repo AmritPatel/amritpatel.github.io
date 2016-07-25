@@ -1,0 +1,33 @@
+---
+title:  "Summer Vacation 2016: Anna Maria Island"
+header:
+  image: 2016-07-17-anna-maria-vacation/
+  teaser: 2016-07-17-anna-maria-vacation/ 
+tags: 
+  - vacation
+  - family
+  - digital
+gallery1:
+  - url: 2016-07-17-anna-maria-vacation/
+    image_path: 2016-07-17-anna-maria-vacation/
+    alt: ""
+    title: ""
+gallery2:
+  - url: 2016-07-17-anna-maria-vacation/
+    image_path: 2016-07-17-anna-maria-vacation/
+    alt: ""
+    title: ""
+gallery3:
+  - url: 2016-07-17-anna-maria-vacation/
+    image_path: 2016-07-17-anna-maria-vacation/
+    alt: ""
+    title: ""    
+---
+
+
+
+{% include gallery1 caption="Away we go!" %}
+{% include gallery2 caption="Spending time in a beautiful home. It was 1958 Better Homes & Gardens house of the year, by famous architect, Tim Seibert, Sarasota School of Architecture!" %}
+{% include gallery3 caption="My amazing family visiting from Gaineseville, FL. They cooked two beautiful meals for us." %}
+{% include gallery4 caption="Fishing off the pier out back with Grandma and Mommy." %}
+{% include gallery5 caption="Around the island." %}
