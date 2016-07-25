@@ -21,10 +21,22 @@ gallery3:
   - url: 2016-07-17-anna-maria-vacation/
     image_path: 2016-07-17-anna-maria-vacation/
     alt: ""
-    title: ""    
+    title: ""
+gallery4:
+  - url: 2016-07-17-anna-maria-vacation/
+    image_path: 2016-07-17-anna-maria-vacation/
+    alt: ""
+    title: "" 
+gallery5:
+  - url: 2016-07-17-anna-maria-vacation/
+    image_path: 2016-07-17-anna-maria-vacation/
+    alt: ""
+    title: "" 
 ---
 
-People seem to have a love/hate relationship with family vacations. Personally, I love them. Of course there are highs and lows with every family vacation, but in the end it is *always* worth it.ands down, my favorite thing to photograph is my family. This is our third visit to Anna Maria Island, more specifically the city (town?) of Holmes Beach.
+People seem to have a love/hate relationship with family vacations. Personally, I love them. Of course there are highs and lows with every family vacation, but in the end it is *always* worth it. This is our third visit to Anna Maria Island, more specifically the city (town?) of Holmes Beach.
+
+My family is a constant source of inspiration. My favorite thing to photograph is my family. Especially my family on vacation. Everyone is happy (more or less), people let their guards down, and :collision:, magic just happens!
 
 {% include gallery1 caption="Away we go!" %}
 {% include gallery2 caption="Spending time in a beautiful home. It was 1958 Better Homes & Gardens house of the year, by famous architect, Tim Seibert, Sarasota School of Architecture!" %}
