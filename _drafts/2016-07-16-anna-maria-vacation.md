@@ -33,6 +33,7 @@ gallery5:
     alt: ""
     title: "" 
 ---
+
 {% include gallery1 caption="Away we go!" %}
 
 People seem to have a love/hate relationship with family vacations. Personally, I love them. Of course there are highs and lows with every one, but in the end it is *always* worth it. This is our third visit to Anna Maria Island, more specifically the city of Holmes Beach. For us the annual trip is our chance for quiet time catching up with amazing family and friends in the state that we grew up in. I also get a chance to give my son a glimpse of some of the things I grew up doing -- hanging out at the beach/pool and enjoying some of Florida's more unique dining institutions.
