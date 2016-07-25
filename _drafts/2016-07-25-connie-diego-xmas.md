@@ -16,3 +16,10 @@ gallery1:
 
 Last October, my good friends Connie + Diego asked if I would do a family photo session for their Christmas card. I was honored. I also wanted to givem them something special.
 
+{% include gallery1 caption="Away we go!" %}
+
+Include:
+  - kiss shot
+  - on trail; wally on stump (crop 5x7)
+  - wally paw on chest
+  - in front of tree
