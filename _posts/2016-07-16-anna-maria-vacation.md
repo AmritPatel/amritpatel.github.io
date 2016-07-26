@@ -246,12 +246,12 @@ gallery3:
 
 People seem to have a love/hate relationship with family vacations. Personally, I love them. Of course there are highs and lows with every one, but in the end it is *always* worth it. This is our third visit to Anna Maria Island, more specifically the city of Holmes Beach. For us the annual trip is our chance for quiet time catching up with amazing family and friends in the state that we grew up in. I also get a chance to give my son a glimpse of some of the things I grew up doing -- hanging out at the beach/pool and enjoying some of Florida's more unique dining institutions.
 
-{% include gallery id="gallery2" caption="Spending time in a beautiful home. It was 1958 Better Homes & Gardens house of the year, by famous architect, Tim Seibert, Sarasota School of Architecture!" %}
+{% include gallery id="gallery2" class="full" caption="Spending time in a beautiful home. It was 1958 Better Homes & Gardens house of the year, by famous architect, Tim Seibert, Sarasota School of Architecture!" %}
 
 My family is a constant source of inspiration and they are by far my favorite thing to photograph. Especially my family on vacation. Everyone is happy, people let their guards down, and :collision: magic just happens (coincidentally we were there for the 4th of July and saw the best fireworks display ever)!
 
-{% include gallery id="gallery3" caption="Some of my amazing family visiting from Gaineseville, FL. They cooked two beautiful meals for us." %}
+{% include gallery id="gallery3" class="full" caption="Some of my amazing family visiting from Gaineseville, FL. They cooked two beautiful meals for us." %}
 
 We've been on Holmes Beach three years in a row and we've decided that we already can't wait to get back so next years trip has already been booked. Spring Break 2017 here we come! This time we'll be staying in Anna Maria proper. On this part of the island (near the tip by Rod & Reel Pier), there are amazing crystal clear tide pools that form. Kids seem to love this area because they can sit, stand, and swim without crashing waves -- there are even tiny little :tropical_fish: that they can try and catch.
 
-{% include gallery id="gallery1" caption="" %}
+{% include gallery id="gallery1" class="full" caption="" %}
