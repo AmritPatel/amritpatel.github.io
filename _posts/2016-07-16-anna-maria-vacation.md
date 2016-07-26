@@ -1,15 +1,15 @@
 ---
 title:  "Summer Vacation 2016: Anna Maria Island"
 header:
-  image: 2016-07-16-anna-maria-vacation/gallery1/R0007096.jpg
-  teaser: 2016-07-16-anna-maria-vacation/gallery1/R0007096.jpg
+  image: 2016-07-16-anna-maria-vacation/R0007655.jpg
+  teaser: 2016-07-16-anna-maria-vacation/R0007655.jpg
 tags: 
   - vacation
   - family
   - digital
 gallery1:
-  - url: 2016-07-16-anna-maria-vacation/gallery1/R0006769.jpg
-    image_path: 2016-07-16-anna-maria-vacation/gallery1/R0006769.jpg
+  - url: 2016-07-16-anna-maria-vacation/R0007655.jpg
+    image_path: 2016-07-16-anna-maria-vacation/R0007655.jpg
     alt: ""
     title: ""
 ---
