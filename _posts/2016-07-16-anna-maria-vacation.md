@@ -250,8 +250,8 @@ People seem to have a love/hate relationship with family vacations. Personally, 
 
 My family is a constant source of inspiration and they are by far my favorite thing to photograph. Especially my family on vacation. Everyone is happy, people let their guards down, and :collision: magic just happens (coincidentally we were there for the 4th of July and saw the best fireworks display ever)!
 
-{% include gallery id="gallery3" caption="My family visiting from Gaineseville, FL." %}
+{% include gallery id="gallery3" type="grid" caption="My family visiting from Gaineseville, FL." %}
 
 We've been on Holmes Beach three years in a row and we've already booked for next year. Spring Break 2017 here we come! This time we'll be staying in Anna Maria proper. On this part of the island (near the tip by Rod & Reel Pier), there are amazing crystal clear tide pools that form. Kids seem to love this area because they can sit, stand, and swim without crashing waves -- there are even tiny little :tropical_fish: that they can try and catch. Already can't wait!
 
-{% include gallery id="gallery1" caption="" %}
+{% include gallery id="gallery1" type="grid" caption="" %}
