@@ -145,10 +145,6 @@ gallery2:
     image_path: 2016-07-16-anna-maria-vacation/gallery2/R0007136.jpg
     alt: ""
     title: ""
-  - url: 2016-07-16-anna-maria-vacation/gallery2/R0007253.jpg
-    image_path: 2016-07-16-anna-maria-vacation/gallery2/R0007253.jpg
-    alt: ""
-    title: ""
   - url: 2016-07-16-anna-maria-vacation/gallery2/R0007312.jpg
     image_path: 2016-07-16-anna-maria-vacation/gallery2/R0007312.jpg
     alt: ""
@@ -167,6 +163,10 @@ gallery2:
     title: ""
   - url: 2016-07-16-anna-maria-vacation/gallery2/R0007358.jpg
     image_path: 2016-07-16-anna-maria-vacation/gallery2/R0007358.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-16-anna-maria-vacation/gallery2/R0007253.jpg
+    image_path: 2016-07-16-anna-maria-vacation/gallery2/R0007253.jpg
     alt: ""
     title: ""
   - url: 2016-07-16-anna-maria-vacation/gallery2/R0007370.jpg
