@@ -124,6 +124,10 @@ gallery1:
     image_path: 2016-07-16-anna-maria-vacation/gallery1/R0007484.jpg
     alt: ""
     title: ""
+  - url: 2016-07-16-anna-maria-vacation/gallery1/R0007655.jpg
+    image_path: 2016-07-16-anna-maria-vacation/gallery1/R0007655.jpg
+    alt: ""
+    title: ""
 gallery2:
   - url: 2016-07-16-anna-maria-vacation/gallery2/R0006884.jpg
     image_path: 2016-07-16-anna-maria-vacation/gallery2/R0006884.jpg
