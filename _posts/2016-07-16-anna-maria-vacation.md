@@ -8,10 +8,6 @@ tags:
   - family
   - digital
 gallery1:
-  - url: 2016-07-16-anna-maria-vacation/gallery1/R0006769.jpg
-    image_path: 2016-07-16-anna-maria-vacation/gallery1/R0006769.jpg
-    alt: ""
-    title: ""
   - url: 2016-07-16-anna-maria-vacation/gallery1/R0006785.jpg
     image_path: 2016-07-16-anna-maria-vacation/gallery1/R0006785.jpg
     alt: ""
@@ -98,10 +94,6 @@ gallery1:
     title: ""
   - url: 2016-07-16-anna-maria-vacation/gallery1/R0007222.jpg
     image_path: 2016-07-16-anna-maria-vacation/gallery1/R0007222.jpg
-    alt: ""
-    title: ""
-  - url: 2016-07-16-anna-maria-vacation/gallery1/R0007227.jpg
-    image_path: 2016-07-16-anna-maria-vacation/gallery1/R0007227.jpg
     alt: ""
     title: ""
   - url: 2016-07-16-anna-maria-vacation/gallery1/R0007231.jpg
