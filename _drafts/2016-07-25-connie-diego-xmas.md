@@ -1,15 +1,15 @@
 ---
 title:  "Connie + Diego Christmas Card Session"
 header:
-  image: 2016-07-25-connie-diego-xmas/
-  teaser: 2016-07-25-connie-diego-xmas/
+  image: 2016-07-25-connie-diego-xmas/AB069.jpg
+  teaser: 2016-07-25-connie-diego-xmas/AB069.jpg
 tags: 
   - holidays
   - family
   - film
 gallery1:
-  - url: 2016-07-17-anna-maria-vacation/
-    image_path: 2016-07-17-anna-maria-vacation/
+  - url: 2016-07-25-connie-diego-xmas/
+    image_path: 2016-07-25-connie-diego-xmas/
     alt: ""
     title: ""
 ---
@@ -21,9 +21,3 @@ Little Wally :dog2: -- a young man now -- was full of energy, ready to jump righ
 Love you guys.
 
 {% include gallery1 caption="Cabin John Park in Autumn." %}
-
-Include:
-  - kiss shot
-  - on trail; wally on stump (crop 5x7)
-  - wally paw on chest
-  - in front of tree
