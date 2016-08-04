@@ -14,7 +14,11 @@ gallery1:
     title: ""
 ---
 
-Last October, my good friends Connie + Diego asked if I would do a family photo session for their Christmas card. I was honored. I also wanted to givem them something special.
+Last October, my good friends Connie + Diego asked if I would do a family photo session for their Christmas card. I was honored. I also wanted to give them something special -- a Christmas gift of sorts.
+
+Little Wally :dog2: -- a young man now -- was full of energy, ready to jump right out of the scene but with a GQ-esque stature at times. What a photogenic little pup! It was not challenging *at all* to find great moments with this trio.
+
+Love you guys.
 
 {% include gallery1 caption="Cabin John Park in Autumn." %}
 
