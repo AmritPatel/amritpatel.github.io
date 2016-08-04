@@ -7,7 +7,7 @@ tags:
   - holidays
   - family
   - film
-gallery1:
+gallery:
   - url: 2016-07-25-connie-diego-xmas/AA006.jpg
     image_path: 2016-07-25-connie-diego-xmas/AA006.jpg
     alt: ""
@@ -44,4 +44,4 @@ Little Wally :dog2: -- a young man now -- was full of energy, ready to jump righ
 
 Love you guys.
 
-{% include gallery1 caption="Cabin John Park in Autumn." %}
+{% include gallery caption="Cabin John Park in Autumn." %}
