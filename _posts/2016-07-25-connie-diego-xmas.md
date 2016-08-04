@@ -8,8 +8,32 @@ tags:
   - family
   - film
 gallery1:
-  - url: 2016-07-25-connie-diego-xmas/
-    image_path: 2016-07-25-connie-diego-xmas/
+  - url: 2016-07-25-connie-diego-xmas/AA006.jpg
+    image_path: 2016-07-25-connie-diego-xmas/AA006.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-25-connie-diego-xmas/AA020.jpg
+    image_path: 2016-07-25-connie-diego-xmas/AA020.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-25-connie-diego-xmas/AA032.jpg
+    image_path: 2016-07-25-connie-diego-xmas/AA032.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-25-connie-diego-xmas/AA035.jpg
+    image_path: 2016-07-25-connie-diego-xmas/AA035.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-25-connie-diego-xmas/AA067.jpg
+    image_path: 2016-07-25-connie-diego-xmas/AA069.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-25-connie-diego-xmas/AA069.jpg
+    image_path: 2016-07-25-connie-diego-xmas/AA069.jpg
+    alt: ""
+    title: ""
+  - url: 2016-07-25-connie-diego-xmas/AA075.jpg
+    image_path: 2016-07-25-connie-diego-xmas/AA0075.jpg
     alt: ""
     title: ""
 ---
