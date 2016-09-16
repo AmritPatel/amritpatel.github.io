@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Sessions"
-    url: /sessions/
+  - title: "Series"
+    url: /series/
 
   - title: "Portfolio"
     url: /portfolio/
