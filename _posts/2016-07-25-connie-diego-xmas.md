@@ -44,4 +44,4 @@ Little Wally :dog2: -- a young man now -- was full of energy, ready to jump righ
 
 Love you guys.
 
-{% include gallery class="full" caption="Cabin John Park in Autumn." %}
+{% include gallery caption="Cabin John Park in Autumn." %}
