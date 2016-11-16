@@ -3,7 +3,8 @@ title:  "Halloween Fun!"
 header:
   image: 2016-10-31-halloween/R0009988.jpg
   teaser: 2016-10-31-halloween/R0009988.jpg
-tags: 
+tags:
+  - lifeofkiran
   - family
   - digital
 gallery:
