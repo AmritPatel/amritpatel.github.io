@@ -8,4 +8,4 @@ tags:
   - lifeofkiran
 ---
 
-Got a text this morning saying that all IT services are down at work and that we aren't expected to come in until noon...
+Got a text this morning saying that all IT services are down at work and that we aren't expected to come in until noon...:metal:
