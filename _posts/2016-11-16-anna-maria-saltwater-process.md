@@ -27,10 +27,10 @@ gallery:
 
 I made up a new film processing technique during my last visit to Florida. All it involves is:
 
-> dropping your camera in the ocean,
-> taking pictures as usual,
-> letting the film marinate for...I dunno...a couple weeks, and
-> dropping it off at your nearest photolab for final development
+1. dropping your camera in the ocean,
+2. taking pictures as usual,
+3. letting the film marinate for...I dunno...a couple weeks, and
+4. dropping it off at your nearest photolab for final development
     
 Voila!
 
