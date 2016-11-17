@@ -1,7 +1,6 @@
 ---
 title:  "A Frame for Friends"
 header:
-  image: 2016-11-09-andrew-jess-anniversary/R0010048.jpg
   teaser: 2016-11-09-andrew-jess-anniversary/R0010048.jpg
 tags: 
   - framesforfriends
