@@ -8,34 +8,6 @@ tags:
   - family
   - film
 gallery:
-  - url: 2016-07-25-connie-diego-xmas/AA006.jpg
-    image_path: 2016-07-25-connie-diego-xmas/AA006.jpg
-    alt: ""
-    title: ""
-  - url: 2016-07-25-connie-diego-xmas/AA020.jpg
-    image_path: 2016-07-25-connie-diego-xmas/AA020.jpg
-    alt: ""
-    title: ""
-  - url: 2016-07-25-connie-diego-xmas/AA032.jpg
-    image_path: 2016-07-25-connie-diego-xmas/AA032.jpg
-    alt: ""
-    title: ""
-  - url: 2016-07-25-connie-diego-xmas/AA035.jpg
-    image_path: 2016-07-25-connie-diego-xmas/AA035.jpg
-    alt: ""
-    title: ""
-  - url: 2016-07-25-connie-diego-xmas/AB067.jpg
-    image_path: 2016-07-25-connie-diego-xmas/AB067.jpg
-    alt: ""
-    title: ""
-  - url: 2016-07-25-connie-diego-xmas/AB069.jpg
-    image_path: 2016-07-25-connie-diego-xmas/AB069.jpg
-    alt: ""
-    title: ""
-  - url: 2016-07-25-connie-diego-xmas/AB075.jpg
-    image_path: 2016-07-25-connie-diego-xmas/AB075.jpg
-    alt: ""
-    title: ""
 ---
 
 Last October, my good friends Connie + Diego asked if I would do a family photo session for their Christmas card. I was honored. I also wanted to give them something special -- a Christmas gift of sorts.
@@ -44,4 +16,16 @@ Little Wally :dog2: -- a young man now -- was full of energy, ready to jump righ
 
 Love you guys.
 
-{% include gallery caption="Cabin John Park in Autumn." %}
+![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/Desktop/2016-07-25-connie-diego-xmas/AA006.jpg){: .align-center}
+
+![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/Desktop/2016-07-25-connie-diego-xmas/AA020.jpg){: .align-center}
+
+![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/Desktop/2016-07-25-connie-diego-xmas/AA032.jpg){: .align-center}
+
+![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/Desktop/2016-07-25-connie-diego-xmas/AA035.jpg){: .align-center}
+
+![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/Desktop/2016-07-25-connie-diego-xmas/AB067.jpg){: .align-center}
+
+![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/Desktop/2016-07-25-connie-diego-xmas/AB069.jpg){: .align-center}
+
+![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/Desktop/2016-07-25-connie-diego-xmas/AB075.jpg){: .align-center}
