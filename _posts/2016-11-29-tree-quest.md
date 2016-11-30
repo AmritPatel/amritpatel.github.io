@@ -40,3 +40,24 @@ gallery:
 ---
 
 {% include gallery %}
+
+![1]({{ site.url }}{{ site.baseurl }}/images/2016-11-29-tree-quest/fall-2016-01.jpg)
+{: .full}
+
+![2]({{ site.url }}{{ site.baseurl }}/images/2016-11-29-tree-quest/fall-2016-02.jpg)
+{: .full}
+
+![3]({{ site.url }}{{ site.baseurl }}/images/2016-11-29-tree-quest/fall-2016-03.jpg)
+{: .full}
+
+![4]({{ site.url }}{{ site.baseurl }}/images/2016-11-29-tree-quest/fall-2016-04.jpg)
+{: .full}
+
+![5]({{ site.url }}{{ site.baseurl }}/images/2016-11-29-tree-quest/fall-2016-05.jpg)
+{: .full}
+
+![6]({{ site.url }}{{ site.baseurl }}/images/2016-11-29-tree-quest/fall-2016-06.jpg)
+{: .full}
+
+![7]({{ site.url }}{{ site.baseurl }}/images/2016-11-29-tree-quest/fall-2016-07.jpg)
+{: .full}
