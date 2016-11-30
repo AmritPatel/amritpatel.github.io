@@ -6,23 +6,6 @@ header:
 tags: 
   - film
   - vacation
-gallery:
-  - url: 2016-11-16-anna-maria-saltwater-process/2016-anna-maria-saltwater-process-01.jpg
-    image_path: 2016-11-16-anna-maria-saltwater-process/2016-anna-maria-saltwater-process-01.jpg
-    alt: ""
-    title: ""
-  - url: 2016-11-16-anna-maria-saltwater-process/2016-anna-maria-saltwater-process-02.jpg
-    image_path: 2016-11-16-anna-maria-saltwater-process/2016-anna-maria-saltwater-process-02.jpg
-    alt: ""
-    title: ""
-  - url: 2016-11-16-anna-maria-saltwater-process/2016-anna-maria-saltwater-process-03.jpg
-    image_path: 2016-11-16-anna-maria-saltwater-process/2016-anna-maria-saltwater-process-03.jpg
-    alt: ""
-    title: ""
-  - url: 2016-11-16-anna-maria-saltwater-process/2016-anna-maria-saltwater-process-04.jpg
-    image_path: 2016-11-16-anna-maria-saltwater-process/2016-anna-maria-saltwater-process-04.jpg
-    alt: ""
-    title: ""
 ---
 
 I made up a new film processing technique during my last visit to Florida. All it involves is:
@@ -34,4 +17,10 @@ I made up a new film processing technique during my last visit to Florida. All i
     
 Voila!
 
-{% include gallery %}
+![1]({{ site.url }}{{ site.baseurl }}/images/2016-11-16-anna-maria-saltwater-process/2016-anna-maria-saltwater-process-01.jpg){: .align-center}
+
+![2]({{ site.url }}{{ site.baseurl }}/images/2016-11-16-anna-maria-saltwater-process/2016-anna-maria-saltwater-process-02.jpg){: .align-center}
+
+![3]({{ site.url }}{{ site.baseurl }}/images/2016-11-16-anna-maria-saltwater-process/2016-anna-maria-saltwater-process-03.jpg){: .align-center}
+
+![4]({{ site.url }}{{ site.baseurl }}/images/2016-11-16-anna-maria-saltwater-process/2016-anna-maria-saltwater-process-04.jpg){: .align-center}
