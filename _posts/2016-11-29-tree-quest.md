@@ -1,40 +1,40 @@
 ---
 title:  "Tree Quest"
 header:
-  image: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-01.jpg
-  teaser: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-01.jpg
+  image: 2016-11-29-tree-quest/fall-2016-01.jpg
+  teaser: 2016-11-29-tree-quest/fall-2016-01.jpg
 tags: 
   - lifeofkiran
   - film
   - home
   - holidays
 gallery:
-  - url: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-01.jpg
-    image_path: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-01.jpg
+  - url: 2016-11-29-tree-quest/fall-2016-01.jpg
+    image_path: 2016-11-29-tree-quest/fall-2016-01.jpg
     alt: ""
     title: ""
-  - url: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-02.jpg
-    image_path: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-02.jpg
+  - url: 2016-11-29-tree-quest/fall-2016-02.jpg
+    image_path: 2016-11-29-tree-quest/fall-2016-02.jpg
     alt: ""
     title: ""
-  - url: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-03.jpg
-    image_path: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-03.jpg
+  - url: 2016-11-29-tree-quest/fall-2016-03.jpg
+    image_path: 2016-11-29-tree-quest/fall-2016-03.jpg
     alt: ""
     title: ""
-  - url: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-04.jpg
-    image_path: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-04.jpg
+  - url: 2016-11-29-tree-quest/fall-2016-04.jpg
+    image_path: 2016-11-29-tree-quest/fall-2016-04.jpg
     alt: ""
     title: ""
-  - url: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-05.jpg
-    image_path: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-05.jpg
+  - url: 2016-11-29-tree-quest/fall-2016-05.jpg
+    image_path: 2016-11-29-tree-quest/fall-2016-05.jpg
     alt: ""
     title: ""
-  - url: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-06.jpg
-    image_path: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-06.jpg
+  - url: 2016-11-29-tree-quest/fall-2016-06.jpg
+    image_path: 2016-11-29-tree-quest/fall-2016-06.jpg
     alt: ""
     title: ""
-  - url: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-07.jpg
-    image_path: Users/im_apatel/Desktop/blogPost/2016-11-29-tree-quest/fall-2016-07.jpg
+  - url: 2016-11-29-tree-quest/fall-2016-07.jpg
+    image_path: 2016-11-29-tree-quest/fall-2016-07.jpg
     alt: ""
     title: ""
 ---
