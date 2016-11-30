@@ -16,16 +16,16 @@ Little Wally :dog2: -- a young man now -- was full of energy, ready to jump righ
 
 Love you guys.
 
-![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/Desktop/2016-07-25-connie-diego-xmas/AA006.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2016-07-25-connie-diego-xmas/AA006.jpg){: .align-center}
 
-![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/Desktop/2016-07-25-connie-diego-xmas/AA020.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2016-07-25-connie-diego-xmas/AA020.jpg){: .align-center}
 
-![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/Desktop/2016-07-25-connie-diego-xmas/AA032.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2016-07-25-connie-diego-xmas/AA032.jpg){: .align-center}
 
-![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/Desktop/2016-07-25-connie-diego-xmas/AA035.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2016-07-25-connie-diego-xmas/AA035.jpg){: .align-center}
 
-![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/Desktop/2016-07-25-connie-diego-xmas/AB067.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2016-07-25-connie-diego-xmas/AB067.jpg){: .align-center}
 
-![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/Desktop/2016-07-25-connie-diego-xmas/AB069.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2016-07-25-connie-diego-xmas/AB069.jpg){: .align-center}
 
-![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/Desktop/2016-07-25-connie-diego-xmas/AB075.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2016-07-25-connie-diego-xmas/AB075.jpg){: .align-center}
