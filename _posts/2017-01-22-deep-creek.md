@@ -9,6 +9,7 @@ tags:
   - film
   - vacation
   - travel
+  - b+w
 ---
 
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-01.jpg){: .align-center}
