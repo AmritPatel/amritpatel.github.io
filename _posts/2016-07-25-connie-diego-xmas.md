@@ -7,6 +7,7 @@ tags:
   - holidays
   - family
   - film
+  - b+w
 gallery:
 ---
 

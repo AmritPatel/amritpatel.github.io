@@ -5,6 +5,7 @@ header:
   teaser: 2016-11-16-anna-maria-saltwater-process/2016-anna-maria-saltwater-process-03.jpg
 tags: 
   - film
+  - color
   - vacation
 ---
 

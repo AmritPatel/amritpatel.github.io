@@ -8,6 +8,8 @@ tags:
   - home
   - family
   - digital
+  - b+w
+  - color
 gallery:
   - url: 2016-07-17-baby-august/august-1.jpg
     image_path: 2016-07-17-baby-august/august-1.jpg

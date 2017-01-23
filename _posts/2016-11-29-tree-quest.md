@@ -8,6 +8,7 @@ tags:
   - film
   - home
   - holidays
+  - b+w
 ---
 
 ![1]({{ site.url }}{{ site.baseurl }}/images/2016-11-29-tree-quest/fall-2016-01.jpg){: .align-center}

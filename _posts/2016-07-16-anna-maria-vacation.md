@@ -7,6 +7,7 @@ tags:
   - vacation
   - family
   - digital
+  - color
 gallery1:
   - url: 2016-07-16-anna-maria-vacation/gallery1/R0006785.jpg
     image_path: 2016-07-16-anna-maria-vacation/gallery1/R0006785.jpg

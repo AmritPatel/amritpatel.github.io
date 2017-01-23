@@ -7,6 +7,7 @@ tags:
   - lifeofkiran
   - family
   - digital
+  - color
 gallery:
   - url: 2016-10-31-halloween/R0009938.jpg
     image_path: 2016-10-31-halloween/R0009938.jpg
