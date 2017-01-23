@@ -1,8 +1,8 @@
 ---
 title:  "Deep Creek"
 header:
-  image: 2017-01-22-deep-creek/deep-creek-06.jpg
-  teaser: 2017-01-22-deep-creek/deep-creek-06.jpg
+  image: 2017-01-22-deep-creek/deep-creek-08.jpg
+  teaser: 2017-01-22-deep-creek/deep-creek-08.jpg
 tags: 
   - family
   - lifeofkiran
