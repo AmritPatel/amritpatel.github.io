@@ -34,9 +34,10 @@ tags:
 
 <figure class="half">   
 <img src="/images/2017-01-22-deep-creek/deep-creek-10.jpg">
-<img src="/images/2017-01-22-deep-creek/deep-creek-11.jpg">
 <figcaption>Swallow Falls State Park.</figcaption>
 </figure>
+
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-11.jpg){: .align-center}
 
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-12.jpg){: .align-center}
 
