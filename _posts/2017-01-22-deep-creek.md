@@ -30,9 +30,13 @@ tags:
     {{ fig_img2 | markdownify | remove: "<p>" | remove: "</p>" }}
 </figure>
 
+{% capture fig_img2.1 %}
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-04.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-05.jpg){: .align-center}
+{% endcapture %}
+
 <figure class="half">   
-    <img src="/images/2017-01-22-deep-creek/deep-creek-04.jpg">
-    <img src="/images/2017-01-22-deep-creek/deep-creek-05.jpg">
+    {{ fig_img2.1 | markdownify | remove: "<p>" | remove: "</p>" }}
 </figure>
 
 {% capture fig_img3 %}
