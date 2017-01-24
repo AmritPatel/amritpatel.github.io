@@ -12,11 +12,15 @@ tags:
   - b+w
 ---
 
+{% capture fig_img %}
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-01.jpg){: .align-center}
-
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-02.jpg){: .align-center}
-
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-03.jpg){: .align-center}
+{% endcapture %}
+
+<figure>
+{{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
 
 <figure class="half">   
 <img src="/images/2017-01-22-deep-creek/deep-creek-04.jpg">
@@ -24,22 +28,33 @@ tags:
 <figcaption>Near Deep Creek Lake.</figcaption>
 </figure>
 
+{% capture fig_img2 %}
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-06.jpg){: .align-center}
-
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-07.jpg){: .align-center}
-
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-08.jpg){: .align-center}
-
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-09.jpg){: .align-center}
+{% endcapture %}
 
-<figure class="half">   
-<img src="/images/2017-01-22-deep-creek/deep-creek-10.jpg">
+<figure>
+{{ fig_img2 | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
+
+{% capture fig_img3 %}
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-10.jpg){: .align-center}
+{% endcapture %}
+
+<figure>
+{{ fig_img3 | markdownify | remove: "<p>" | remove: "</p>" }}
 <figcaption>Swallow Falls State Park.</figcaption>
 </figure>
 
+{% capture fig_img4 %}
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-11.jpg){: .align-center}
-
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-12.jpg){: .align-center}
-
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-13.jpg){: .align-center}
+{% endcapture %}
+
+<figure>
+{{ fig_img4 | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
 
