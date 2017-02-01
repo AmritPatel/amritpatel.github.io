@@ -18,7 +18,6 @@ tags:
 
 <figure>
     {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-    <figcaption>Trump taking office.</figcaption>
 </figure>
 
 {% capture fig_img2 %}
