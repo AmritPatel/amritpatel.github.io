@@ -30,10 +30,11 @@ tags:
 {% endcapture %}
 
 <figure class="half">   
-    {{ fig_img2 | markdownify | remove: "<p>" | remove: "</p>" }}
+    {{ fig_img2 | markdownify }}
 </figure>
 
 {% capture fig_img3 %}
+<p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-06.jpg){: .align-center}
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-01-22-deep-creek/deep-creek-07.jpg){: .align-center}
@@ -44,7 +45,7 @@ tags:
 {% endcapture %}
 
 <figure>
-    {{ fig_img3 | markdownify | remove: "<p>" | remove: "</p>" }}
+    {{ fig_img3 | markdownify }}
     <figcaption>Near Deep Creek Lake.</figcaption>
 </figure>
 
@@ -59,6 +60,6 @@ tags:
 {% endcapture %}
 
 <figure>
-    {{ fig_img4 | markdownify | remove: "<p>" | remove: "</p>" }}
+    {{ fig_img4 | markdownify }}
     <figcaption>Swallow Falls State Park.</figcaption>
 </figure>
