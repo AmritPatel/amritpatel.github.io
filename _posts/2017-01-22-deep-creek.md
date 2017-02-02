@@ -21,7 +21,7 @@ tags:
 {% endcapture %}
 
 <figure>
-    {{ fig_img1 | markdownify }}
+    {{ fig_img1 | markdownify | remove: "<p>" | remove: "</p>" }}
 </figure>
 
 {% capture fig_img2 %}
@@ -31,7 +31,7 @@ tags:
 {% endcapture %}
 
 <figure class="half">   
-    {{ fig_img2 | markdownify }}
+    {{ fig_img2 | markdownify | remove: "<p>" | remove: "</p>" }}
 </figure>
 
 {% capture fig_img3 %}
@@ -46,7 +46,7 @@ tags:
 {% endcapture %}
 
 <figure>
-    {{ fig_img3 | markdownify }}
+    {{ fig_img3 | markdownify | remove: "<p>" | remove: "</p>" }}
     <figcaption>Near Deep Creek Lake.</figcaption>
 </figure>
 
@@ -61,6 +61,6 @@ tags:
 {% endcapture %}
 
 <figure>
-    {{ fig_img4 | markdownify }}
+    {{ fig_img4 | markdownify | remove: "<p>" | remove: "</p>" }}
     <figcaption>Swallow Falls State Park.</figcaption>
 </figure>
