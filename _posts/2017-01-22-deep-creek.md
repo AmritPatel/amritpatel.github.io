@@ -21,7 +21,7 @@ tags:
 {% endcapture %}
 
 <figure>
-    {{ fig_img1 | markdownify | remove: "<p>" | remove: "</p>" }}
+    {{ fig_img1 | markdownify }}
 </figure>
 
 {% capture fig_img2 %}
