@@ -1,5 +1,5 @@
 ---
-title:  "Spring Break 2017: Anna Maria Island"
+title:  "Anna Maria Island + Bradenton + Egmont Key"
 header:
   image: 2017-04-26-anna-maria-spring-break/anna-maria-2017-film-10.jpg
   teaser: 2017-04-26-anna-maria-spring-break/anna-maria-2017-film-10.jpg
