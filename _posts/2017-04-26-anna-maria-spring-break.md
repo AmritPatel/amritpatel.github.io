@@ -11,7 +11,7 @@ tags:
   - digital
 ---
 
-## Set 1: Film
+## Set 1
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-04-26-anna-maria-spring-break/anna-maria-2017-film-01.jpg){: .align-center}
@@ -88,12 +88,7 @@ tags:
 <figcaption> </figcaption>
 <p></p>
 
-## Set 2: Lo-Fi Digital
-
-<p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2017-04-26-anna-maria-spring-break/anna-maria-2017-lo-fi-01.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
+## Set 2
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-04-26-anna-maria-spring-break/anna-maria-2017-lo-fi-02.jpg){: .align-center}
@@ -150,7 +145,7 @@ tags:
 <figcaption> </figcaption>
 <p></p>
 
-## Set 3: Hi-Fi Digital
+## Set 3
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-04-26-anna-maria-spring-break/anna-maria-2017-hi-fi-01.jpg){: .align-center}
@@ -214,6 +209,11 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-04-26-anna-maria-spring-break/anna-maria-2017-hi-fi-13.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-04-26-anna-maria-spring-break/anna-maria-2017-hi-fi-13a.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
