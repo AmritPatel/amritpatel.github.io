@@ -4,8 +4,12 @@ header:
   image: 2017-02-18-visiting-gran/AA038.jpg
   teaser: 2017-02-18-visiting-gran/AA038.jpg
 tags: 
-  - 
-  - 
+  - family
+  - travel
+  - lifeofkiran
+  - film
+  - color
+  - b+w
 ---
 
 <p></p>
