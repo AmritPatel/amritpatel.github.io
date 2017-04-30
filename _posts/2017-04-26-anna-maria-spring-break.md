@@ -10,6 +10,7 @@ tags:
   - film
   - digital
   - lifeofkiran
+  - holidays
   - b+w
   - color
 ---
