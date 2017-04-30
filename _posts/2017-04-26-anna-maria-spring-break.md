@@ -10,6 +10,8 @@ tags:
   - film
   - digital
   - lifeofkiran
+  - b+w
+  - color
 ---
 
 ## Set 1
