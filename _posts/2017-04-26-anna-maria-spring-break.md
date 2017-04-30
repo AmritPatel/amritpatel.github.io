@@ -9,6 +9,7 @@ tags:
   - travel
   - film
   - digital
+  - lifeofkiran
 ---
 
 ## Set 1
