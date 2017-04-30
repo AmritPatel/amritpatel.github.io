@@ -77,7 +77,7 @@ tags:
 <figcaption> </figcaption>
 <p></p>
 
-### Roll 3: VPS 160
+### Roll 3: Vericolor III VPS 160
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-04-26-anna-maria-spring-break/anna-maria-2017-film-13.jpg){: .align-center}
