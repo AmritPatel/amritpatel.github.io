@@ -287,8 +287,18 @@ tags:
 <p></p>
 
 <p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-23b.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-24.jpg){: .align-center}
 <figcaption>Jacob chatting with Petz, our translator and guide.</figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-24b.jpg){: .align-center}
+<figcaption> </figcaption>
 <p></p>
 
 <p></p>
