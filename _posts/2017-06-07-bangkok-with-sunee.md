@@ -131,7 +131,7 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-arrival-2017-26.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Around Si Lom.</figcaption>
 <p></p>
 
 <p></p>
@@ -178,12 +178,12 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-03.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Lumphini Park.</figcaption>
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-04.jpg){: .align-center}
-<figcaption> </figcaption>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-06.jpg){: .align-center}
+<figcaption>Jacob visits toward the end of our second week and rents a house in Bang Rak via AirBnB. We are just down the alley in front of the Robinson's on Charoen Krung Rd., which is near the Saphan Taksin BTS station. This is where we stay for the final leg of the trip except for the last few days.</figcaption>
 <p></p>
 
 <p></p>
@@ -192,23 +192,28 @@ tags:
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-06.jpg){: .align-center}
-<figcaption> </figcaption>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-04.jpg){: .align-center}
+<figcaption>Nearby food stall owners' pet.</figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-6b.jpg){: .align-center}
+<figcaption>Second weekend starts by visiting Asiatique bordered by Charoen Krung Rd. and the Chao Phraya River. We head there by boat nearby our house.</figcaption>
 <p></p>
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-07.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Bangkok's tallest Ferris Wheel, at Asiatique, seen in the distance. Nobody would ride it with me.</figcaption>
 <p></p>
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-08.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Always the ladies man.</figcaption>
 <p></p>
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-09.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>No visit to Bangkok is complete without a trip (or two in our case) to Chatuchak.</figcaption>
 <p></p>
 
 <p></p>
@@ -218,17 +223,17 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-11.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Family gathering back in Wutthakat.</figcaption>
 <p></p>
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-12.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Back in Bank Rak.</figcaption>
 <p></p>
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-13.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>The benefits of having a short kid.</figcaption>
 <p></p>
 
 <p></p>
@@ -238,7 +243,7 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-15.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Siam Center.</figcaption>
 <p></p>
 
 <p></p>
@@ -248,12 +253,12 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-17.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Cha Tra Mue rose milk tea.</figcaption>
 <p></p>
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-18.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Heading home from the Kathmandu Photo Gallery with Jacob.</figcaption>
 <p></p>
 
 <p></p>
@@ -263,7 +268,7 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-20.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Poolside view from the hotel across the street from our house in Bang Rak.</figcaption>
 <p></p>
 
 <p></p>
@@ -273,17 +278,17 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-22.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Still recovering from a bad leg fracture caused by the multiple myeloma. Mobility is slowly returning.</figcaption>
 <p></p>
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-23.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Spiritual sak yant tattoo master Arjan Neng.</figcaption>
 <p></p>
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-24.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Jacob chatting with Petz, our translator and guide.</figcaption>
 <p></p>
 
 <p></p>
@@ -293,7 +298,7 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-26.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Arjan Neng bestowing blessings.</figcaption>
 <p></p>
 
 <p></p>
@@ -308,11 +313,11 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-29.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Season 1 winner of the popular "The Mask Singer" TV show, "Durian". Figurine by Jessica's talented cousin Mint.</figcaption>
 <p></p>
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-30.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Our last few days with Chuck and family just north of Bangkok.</figcaption>
 <p></p>
 
