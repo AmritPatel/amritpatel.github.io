@@ -106,7 +106,7 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-arrival-2017-18.jpg){: .align-center}
-<figcaption>View from Sunee's room.</figcaption>
+<figcaption>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;View from Sunee's room.</figcaption>
 <p></p>
 
 <p></p>
