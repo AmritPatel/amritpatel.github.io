@@ -1,5 +1,5 @@
 ---
-title:  "Bangkok with Grammaw"
+title:  "Bangkok with Sunee"
 header:
   image: 2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-12.jpg
   teaser: 2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-12.jpg
@@ -16,7 +16,7 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-arrival-2017-01.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Struggling to stay cool in the oppressive Bangkok heat.</figcaption>
 <p></p>
 
 <p></p>
