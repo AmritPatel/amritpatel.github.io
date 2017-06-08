@@ -278,12 +278,12 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-22.jpg){: .align-center}
-<figcaption>Still recovering from a bad leg fracture caused by the multiple myeloma. Mobility is slowly returning.</figcaption>
+<figcaption>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Still recovering from a bad leg fracture caused by the multiple myeloma. Mobility is slowly returning.</figcaption>
 <p></p>
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-23.jpg){: .align-center}
-<figcaption>Spiritual sak yant tattoo master Arjan Neng.</figcaption>
+<figcaption>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Spiritual sak yant tattoo master Arjan Neng.</figcaption>
 <p></p>
 
 <p></p>
