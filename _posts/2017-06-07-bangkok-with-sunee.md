@@ -21,7 +21,7 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-arrival-2017-02.jpg){: .align-center}
-<figcaption>    Kiran already goofing off after the daylong journey.</figcaption>
+<figcaption>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspKiran already goofing off after the daylong journey.</figcaption>
 <p></p>
 
 <p></p>
