@@ -21,7 +21,7 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-arrival-2017-02.jpg){: .align-center}
-<figcaption>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Kiran already goofing off after the daylong journey.</figcaption>
+<figcaption>Kiran already goofing off after the daylong journey.</figcaption>
 <p></p>
 
 <p></p>
@@ -106,7 +106,7 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-arrival-2017-18.jpg){: .align-center}
-<figcaption>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;View from Sunee's room.</figcaption>
+<figcaption>View from Sunee's room.</figcaption>
 <p></p>
 
 <p></p>
@@ -278,12 +278,12 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-22.jpg){: .align-center}
-<figcaption>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Still recovering from a bad leg fracture caused by the multiple myeloma. Mobility is slowly returning.</figcaption>
+<figcaption>Still recovering from a bad leg fracture caused by the multiple myeloma. Mobility is slowly returning.</figcaption>
 <p></p>
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-23.jpg){: .align-center}
-<figcaption>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Jacob and I visit spiritual sak yant tattoo master Arjan Neng.</figcaption>
+<figcaption>Jacob and I visit spiritual sak yant tattoo master Arjan Neng.</figcaption>
 <p></p>
 
 <p></p>
