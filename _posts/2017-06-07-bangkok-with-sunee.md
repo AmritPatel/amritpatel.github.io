@@ -228,7 +228,7 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-12.jpg){: .align-center}
-<figcaption>Back in Bank Rak.</figcaption>
+<figcaption>Bang Rak.</figcaption>
 <p></p>
 
 <p></p>
