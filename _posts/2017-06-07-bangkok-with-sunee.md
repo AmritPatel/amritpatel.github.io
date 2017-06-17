@@ -4,6 +4,7 @@ header:
   image: 2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-12.jpg
   teaser: 2017-06-07-bangkok-with-grammaw/bangkok-departure-2017-12.jpg
 tags: 
+  - photojournal
   - family
   - travel
   - lifeofkiran

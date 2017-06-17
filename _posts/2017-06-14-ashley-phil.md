@@ -5,6 +5,7 @@ header:
   teaser: 2017-06-14-ashley-phil/ashley-phil-color-06.jpg
 tags: 
   - color
+  - b+w
   - film
   - maternity
 ---
