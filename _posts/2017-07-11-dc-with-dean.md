@@ -90,3 +90,63 @@ tags:
 <figcaption> </figcaption>
 <p></p>
 
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-11-dc-with-dean/R0012188.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-11-dc-with-dean/R0012189.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-11-dc-with-dean/R0012199.jpg){: .align-center}
+<figcaption>Smithsonian National Zoological Park.</figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-11-dc-with-dean/R0012215.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-11-dc-with-dean/R0012230.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-11-dc-with-dean/R0012238.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-11-dc-with-dean/R0012273.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-11-dc-with-dean/R0012302.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-11-dc-with-dean/R0012316.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-11-dc-with-dean/R0012338.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-11-dc-with-dean/R0012353.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-11-dc-with-dean/R0012363.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
