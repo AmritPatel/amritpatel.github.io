@@ -12,7 +12,7 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-11-dc-with-dean/R0011992.jpg){: .align-center}
-<figcaption>International Spy Museum.</figcaption>
+<figcaption> </figcaption>
 <p></p>
 
 <p></p>
