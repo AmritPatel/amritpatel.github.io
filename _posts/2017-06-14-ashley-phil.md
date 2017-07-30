@@ -75,3 +75,23 @@ tags:
 <figcaption> </figcaption>
 <p></p>
 
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-14-ashley-phil/ashley-phil-b+w-04.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-14-ashley-phil/ashley-phil-b+w-05.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-14-ashley-phil/ashley-phil-b+w-06.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-14-ashley-phil/ashley-phil-b+w-07.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
