@@ -66,11 +66,6 @@ tags:
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-14-ashley-phil/ashley-phil-b+w-02.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-06-14-ashley-phil/ashley-phil-b+w-03.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
