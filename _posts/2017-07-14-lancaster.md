@@ -11,11 +11,6 @@ tags:
 ---
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-14-lancaster/lancaster-01.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-14-lancaster/lancaster-02.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
