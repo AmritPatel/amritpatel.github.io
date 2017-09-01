@@ -12,7 +12,7 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-14-lancaster/lancaster-02.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Lancaster Central Market.</figcaption>
 <p></p>
 
 <p></p>
@@ -37,7 +37,7 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-14-lancaster/lancaster-07.jpg){: .align-center}
-<figcaption> </figcaption>
+<figcaption>Lancaster near Dutch Wonderland.</figcaption>
 <p></p>
 
 <p></p>
