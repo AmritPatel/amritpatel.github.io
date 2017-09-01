@@ -12,7 +12,7 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-07-14-lancaster/lancaster-02.jpg){: .align-center}
-<figcaption>Lancaster Central Market.</figcaption>
+<figcaption>       Lancaster Central Market.</figcaption>
 <p></p>
 
 <p></p>
