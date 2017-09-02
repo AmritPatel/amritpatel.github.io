@@ -1,8 +1,8 @@
 ---
 title:  "Summer"
 header:
-  image: images/2017-08-05-proffitt-bbq/proffitt-bbq-header.jpg
-  teaser: images/2017-08-05-proffitt-bbq/proffitt-bbq-header.jpg
+  image: 2017-08-05-proffitt-bbq/proffitt-bbq-header.jpg
+  teaser: 2017-08-05-proffitt-bbq/proffitt-bbq-header.jpg
 tags: 
   - family
   - b+w
