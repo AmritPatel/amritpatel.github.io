@@ -1,5 +1,5 @@
 ---
-title:  "Kiran's Skateboard'"
+title:  "Kiran's Skateboard"
 header:
   image: 2017-08-06-kirans-skateboard/kirans-skateboard-02.jpg
   teaser: 2017-08-06-kirans-skateboard/kirans-skateboard-02.jpg
