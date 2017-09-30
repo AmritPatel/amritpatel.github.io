@@ -1,5 +1,5 @@
 ---
-title:  "Catie's Birthday: Maryland Science Center'"
+title:  "Catie's Birthday: Maryland Science Center"
 header:
   image: 2017-09-23-caties-bday/caties-bday-10.jpg
   teaser: 2017-09-23-caties-bday/caties-bday-10.jpg
