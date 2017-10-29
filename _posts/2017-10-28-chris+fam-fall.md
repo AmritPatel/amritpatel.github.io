@@ -1,5 +1,5 @@
 ---
-title:  Fall Fun with the Van Wert's"
+title:  "Fall Fun with the Van Wert's"
 header:
   image: 2017-10-28-chris+fam-fall/chris+fam-fall-2017-10-28-16.jpg
   teaser: 2017-10-28-chris+fam-fall/chris+fam-fall-2017-10-28-16.jpg
