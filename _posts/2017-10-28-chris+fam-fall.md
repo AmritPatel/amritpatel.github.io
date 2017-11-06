@@ -1,8 +1,8 @@
 ---
 title:  "Fall Fun with the Van Wert's"
 header:
-  image: 2017-10-28-chris+fam-fall/chris+fam-fall-2017-10-28-16.jpg
-  teaser: 2017-10-28-chris+fam-fall/chris+fam-fall-2017-10-28-16.jpg
+  image: 2017-10-28-chris+fam-fall/chris+fam-fall-2017-10-28-17.jpg
+  teaser: 2017-10-28-chris+fam-fall/chris+fam-fall-2017-10-28-17.jpg
 tags: 
   - family
   - home
