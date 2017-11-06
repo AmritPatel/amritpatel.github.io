@@ -46,11 +46,6 @@ tags:
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2017-10-28-chris+fam-fall/chris+fam-fall-2017-10-28-08.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-10-28-chris+fam-fall/chris+fam-fall-2017-10-28-09.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
@@ -87,6 +82,11 @@ tags:
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2017-10-28-chris+fam-fall/chris+fam-fall-2017-10-28-16.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2017-10-28-chris+fam-fall/chris+fam-fall-2017-10-28-17.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
