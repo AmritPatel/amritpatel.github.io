@@ -1,8 +1,8 @@
 ---
 title:  "Kiran's 4th B-day, White Oak Duckpin Lanes"
 header:
-  image: 2017-12-12-kirans-4th-bday/kirans-4th-bday-05.jpg.jpg
-  teaser: 2017-12-12-kirans-4th-bday/kirans-4th-bday-05.jpg.jpg
+  image: 2017-12-12-kirans-4th-bday/kirans-4th-bday-05.jpg
+  teaser: 2017-12-12-kirans-4th-bday/kirans-4th-bday-05.jpg
 tags: 
   - lifeofkiran
   - color
