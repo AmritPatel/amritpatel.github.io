@@ -1,5 +1,5 @@
 ---
-title:  "Pisgah + Scottsboro + Hollywood"
+title:  "Alabama: Pisgah + Scottsboro + Hollywood"
 header:
   image: 2018-03-02-pisgah-scottsboro-hollywood/2018-03-02-pisgah-scottsboro-hollywood-01.jpg
   teaser: 2018-03-02-pisgah-scottsboro-hollywood/2018-03-02-pisgah-scottsboro-hollywood-01.jpg
@@ -10,6 +10,8 @@ tags:
   - photojournal
   - travel
 ---
+
+> A collaboration with Aaron Matthew Thomas
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2018-03-02-pisgah-scottsboro-hollywood/2018-03-02-pisgah-scottsboro-hollywood-02.jpg){: .align-center}
@@ -37,7 +39,12 @@ tags:
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-03-02-pisgah-scottsboro-hollywood/2018-03-02-pisgah-scottsboro-hollywood-07.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-03-02-pisgah-scottsboro-hollywood/2018-03-02-pisgah-scottsboro-hollywood-07a.jpg){: .align-center}
+<figcaption> </figcaption>
+<p></p>
+
+<p></p>
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-03-02-pisgah-scottsboro-hollywood/2018-03-02-pisgah-scottsboro-hollywood-07b.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
