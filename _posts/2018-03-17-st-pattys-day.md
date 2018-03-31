@@ -114,14 +114,3 @@ tags:
 ![1]({{ site.url }}{{ site.baseurl }}/images/2018-03-17-st-pattys-day/st-pattys-day-21.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
-
-<p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-03-17-st-pattys-day/st-pattys-day-23.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-03-17-st-pattys-day/st-pattys-day-24.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
