@@ -4,4 +4,4 @@ excerpt: "An excerpt."
 permalink: /contact/
 ---
 
-I'd love to chat with you about booking a :camera: session! You can shoot me an e-mail or hit me up on Facebook.
+Let's collaborate :point_right: [adp013@gmail.com](mailto:adp013@gmail.com) ([:heavy_dollar_sign:](www.google.com)).
