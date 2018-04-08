@@ -8,6 +8,7 @@ tags:
   - color
   - digital
   - home
+  - holidays
 ---
 
 <p></p>
