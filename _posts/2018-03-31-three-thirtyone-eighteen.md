@@ -10,7 +10,7 @@ tags:
 ---
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/Users/im_apatel/amritpatel.github.io/images/2018-03-31-three-thirtyone-eighteen/2018-03-31-01.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-03-31-three-thirtyone-eighteen/2018-03-31-01.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
