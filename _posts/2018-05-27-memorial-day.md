@@ -32,11 +32,6 @@ tags:
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-05-27-memorial-day/memorial-day-2018-5.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2018-05-27-memorial-day/memorial-day-2018-6.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
