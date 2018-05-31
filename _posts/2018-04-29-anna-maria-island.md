@@ -118,12 +118,6 @@ tags:
 <figcaption> </figcaption>
 <p></p>
 
-<figure class="third">
-<img src="/images/2018-04-29-anna-maria-island/20180416-AMI-2018-22.jpg">
-<img src="/images/2018-04-29-anna-maria-island/20180416-AMI-2018-24.jpg">
-<img src="/images/2018-04-29-anna-maria-island/20180416-AMI-2018-23.jpg">
-</figure>
-
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180417-AMI-2018-25.jpg){: .align-center}
 <figcaption> </figcaption>
@@ -148,6 +142,12 @@ tags:
 ![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180419-AMI-2018-29.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
+
+<figure class="third">
+<img src="/images/2018-04-29-anna-maria-island/20180416-AMI-2018-22.jpg">
+<img src="/images/2018-04-29-anna-maria-island/20180416-AMI-2018-24.jpg">
+<img src="/images/2018-04-29-anna-maria-island/20180416-AMI-2018-23.jpg">
+</figure>
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180422-AMI-2018-30.jpg){: .align-center}
