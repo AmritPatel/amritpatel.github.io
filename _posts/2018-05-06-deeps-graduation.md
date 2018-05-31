@@ -75,15 +75,10 @@ tags:
 <figcaption> </figcaption>
 <p></p>
 
-<p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-05-06-deeps-graduation/20180506-R0013929-15.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-05-06-deeps-graduation/20180506-R0013931-16.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
+<figure class="half">
+<img src="/images/2018-05-06-deeps-graduation/20180506-R0013929-15.jpg">
+<img src="/images/2018-05-06-deeps-graduation/20180506-R0013931-16.jpg">
+</figure>
 
 <p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2018-05-06-deeps-graduation/20180506-R0013938-17.jpg){: .align-center}
