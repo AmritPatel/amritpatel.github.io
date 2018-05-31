@@ -118,9 +118,10 @@ tags:
 <figcaption> </figcaption>
 <p></p>
 
-<figure class="half">
-<img src="images/2018-04-29-anna-maria-island/20180416-AMI-2018-22.jpg">
-<img src="images/2018-04-29-anna-maria-island/20180416-AMI-2018-24.jpg">
+<figure class="third">
+<img src="/images/2018-04-29-anna-maria-island/20180416-AMI-2018-22.jpg">
+<img src="/images/2018-04-29-anna-maria-island/20180416-AMI-2018-24.jpg">
+<img src="/images/2018-04-29-anna-maria-island/20180416-AMI-2018-23.jpg">
 </figure>
 
 <p></p>
