@@ -1,8 +1,8 @@
 ---
 title:  "Deep's Graduation, Gainesville, FL"
 header:
-  image: 2018-05-06-deeps-graduation/20180506-R0013884-08.jpg
-  teaser: 2018-05-06-deeps-graduation/20180506-R0013884-08.jpg
+  image: 2018-05-06-deeps-graduation/20180506-R0013896-00.jpg
+  teaser: 2018-05-06-deeps-graduation/20180506-R0013896-00.jpg
 tags: 
   - family
   - digital
