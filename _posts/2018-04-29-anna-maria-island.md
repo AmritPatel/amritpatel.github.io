@@ -24,12 +24,12 @@ tags:
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180429-AMI-2018-02a.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180602-AMI-2018-02a.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180429-AMI-2018-02b.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180602-AMI-2018-02b.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
@@ -129,22 +129,22 @@ tags:
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180429-AMI-2018-21a.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180602-AMI-2018-21a.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180429-AMI-2018-21b.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180602-AMI-2018-21b.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180429-AMI-2018-21c.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180417-AMI-2018-21c.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180429-AMI-2018-21d.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180417-AMI-2018-21d.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
@@ -174,22 +174,22 @@ tags:
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180419-AMI-2018-29a.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180601-AMI-2018-29a.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180419-AMI-2018-29b.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180601-AMI-2018-29b.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180419-AMI-2018-29c.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180601-AMI-2018-29c.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180419-AMI-2018-29d.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180601-AMI-2018-29d.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
@@ -200,17 +200,17 @@ tags:
 </figure>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180422-AMI-2018-23a.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180601-AMI-2018-23a.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180422-AMI-2018-23b.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180602-AMI-2018-23b.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180422-AMI-2018-23c.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180602-AMI-2018-23c.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
@@ -255,12 +255,12 @@ tags:
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180422-AMI-2018-36a.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180601-AMI-2018-36a.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180422-AMI-2018-36b.jpg){: .align-center}
+![1]({{ site.url }}{{ site.baseurl }}/images/2018-04-29-anna-maria-island/20180601-AMI-2018-36b.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
 
