@@ -1,5 +1,5 @@
 ---
-title:  "Anna Maria Island"
+title:  "Anna Maria Island, Pt. 1"
 header:
   image: 2018-04-29-anna-maria-island/20180416-AMI-2018-24.jpg
   teaser: 2018-04-29-anna-maria-island/20180416-AMI-2018-24.jpg
