@@ -8,7 +8,7 @@ tags:
   - lifeofkiran
   - color
   - digital
-  - holiday
+  - holidays
 ---
 
 <p></p>
