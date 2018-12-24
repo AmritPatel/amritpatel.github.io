@@ -1,5 +1,5 @@
 ---
-title:  "Eleven Seventeen"
+title:  "11/17/18"
 header:
   image: 
   teaser: 
