@@ -99,56 +99,6 @@ tags:
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-12-25-christmas/20181225-christmas-09.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-12-25-christmas/20181225-christmas-10.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-12-25-christmas/20181225-christmas-11.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-12-25-christmas/20181225-christmas-12.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-12-25-christmas/20181225-christmas-13.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-12-25-christmas/20181225-christmas-14.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-12-25-christmas/20181225-christmas-15.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-12-25-christmas/20181225-christmas-16.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-12-25-christmas/20181225-christmas-17.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-12-25-christmas/20181225-christmas-18.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2018-12-25-christmas/20181225-christmas-19.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
