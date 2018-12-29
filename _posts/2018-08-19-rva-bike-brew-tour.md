@@ -30,11 +30,6 @@ tags:
 <p></p>
 
 <p></p>
-![1]({{ site.url }}{{ site.baseurl }}/images/2018-08-19-rva-bike-brew-tour/20180819-rva-bike-brew-tour-05.jpg){: .align-center}
-<figcaption> </figcaption>
-<p></p>
-
-<p></p>
 ![1]({{ site.url }}{{ site.baseurl }}/images/2018-08-19-rva-bike-brew-tour/20180819-rva-bike-brew-tour-06.jpg){: .align-center}
 <figcaption> </figcaption>
 <p></p>
